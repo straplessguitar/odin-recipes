@@ -1,0 +1,35 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+body {
+    background-color: black;
+    
+    margin-left: 15px;
+}
+
+img {
+    height: 200px;
+    border: 1px solid white;
+    padding: 2px;
+}
+
+.braumIcon {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: -40%; 
+    padding: 1px;
+}
+
+div {
+    border-left: 1px solid white;
+    padding-left: 10px;
+}
+
+.description img, 
+.description p {
+    
+    margin-left: 15px;
+}
